@@ -14,11 +14,8 @@ exclude:
 - self-paced
 
 chapters:
-- shared/title.md
-- logistics.md
-- k8s/intro.md
-- shared/about-slides.md
-- shared/toc.md
+
+  - shared/toc.md
 - - shared/prereqs.md
   - k8s/versions-k8s.md
   - shared/sampleapp.md
